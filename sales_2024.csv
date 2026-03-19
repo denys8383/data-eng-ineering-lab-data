@@ -1,7 +1,6 @@
-﻿1;rew
-2;sdf
-3;sssss
-4;nnn
-5;dfs
-6;sdfsdf
-7;sdfsf
+﻿sale_id,product_name,amount,status,sale_date
+6,laptop,1200.00,completed,2024-01-10
+7,mouse,25.50,completed,2024-02-15
+8,monitor,0.00,cancelled,2024-02-20
+9,keyboard,45.00,completed,2024-03-01
+10,webcam,0.00,completed,2024-03-05

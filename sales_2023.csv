@@ -1,4 +1,6 @@
-﻿1;rew
-2;wer
-3;fd
-4;nnn
+﻿sale_id,product_name,amount,status,sale_date
+1,iPhone 15,1200.00,completed,2023-01-15
+2,AirPods Pro,250.00,completed,2023-02-10
+3,MacBook Air,0.00,completed,2023-05-20
+4,USB-C Cable,15.00,cancelled,2023-06-12
+5,Apple Watch,399.99,completed,2023-11-30
